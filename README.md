@@ -59,7 +59,7 @@ You can find me on [![LinkedIn][1.2]][1] or at [syedreza@ualberta.ca](mailto:sye
   <a href="https://ureka.co.uk/">
     <img src="https://img.logo.dev/ureka.co.uk?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=true&format=png" width="50" style="border-radius: 50%;">
   </a>
-  <a href="https://www.se.com/ww/en/">
+  <a href="https://www.se.com">
     <img src="https://img.logo.dev/se.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=true&format=png" width="50" style="border-radius: 50%;">
   </a>
   <a href="https://www.nasa.gov/">
