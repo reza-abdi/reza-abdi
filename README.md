@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://github.com/reza-abdi">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2V6dGw3MWU3NTZnYmRnc2hwcGNsY2ZrdXVuNGpqYzI4bWNseHJ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CAgvTIstZuYTO4gmmR/giphy.gif" width="150" style="border-radius: 50%;">
+        <img src="https://i.giphy.com/CAgvTIstZuYTO4gmmR.webp" width="150" style="border-radius: 50%;">
     </a>
 </div>
 
