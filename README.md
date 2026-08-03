@@ -24,10 +24,11 @@ Free free to reach out with any questions about my code or projects!
 ---
 
 ## My Github Stats ##
-
+<!--
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=reza-abdi)
 
 ![Languages Used](generated/languages.svg)
+-->
 
 ![Overview](generated/overview.svg)
 
