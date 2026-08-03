@@ -1,4 +1,5 @@
-# Heyo, I'm Syed Reza!  
+# Heyo, I'm Syed Reza
+"you’re not behind — you’re just on your own timeline" 
 
 <div align="center">
     <a href="https://github.com/reza-abdi">
