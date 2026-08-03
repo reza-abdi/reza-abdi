@@ -1,4 +1,4 @@
-# Heyo, I'm Reza!  
+# Heyo, I'm Syed Reza!  
 
 <div align="center">
     <a href="https://github.com/reza-abdi">
