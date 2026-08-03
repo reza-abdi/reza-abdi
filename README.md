@@ -39,8 +39,7 @@ Free free to reach out with any questions about my code or projects!
 
 - 4th Year Computing Science | Honours student
 - addicted to hackathons (NatHacks, HackEd, ...)
-- You can find me on 
-<a href="https://www.linkedin.com/in/syedreza-abdi/">
+- You can find me on <a href="https://www.linkedin.com/in/syedreza-abdi/">
   <img src="https://img.logo.dev/linkedin.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=true&format=png"
        alt="LinkedIn"
        width="17">
