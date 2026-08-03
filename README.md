@@ -18,9 +18,7 @@ Check out some of my previous coding projects!
 - 🎰 **[jackpot](https://github.com/reza-abdi/jackpot)** - Android event lottery application built with Java, Firebase, maps, QR scanning, testing, and agile development
 - 🧠 **[studywave](https://github.com/reza-abdi/studywave)** - EEG-based focus analysis system using a Muse headset, BrainFlow, and signal-processing techniques
 
-
-
-Contact me with any questions about my code or projects at [syedreza@ualberta.ca](mailto:syedreza@ualberta.ca)
+Free free to reach out with any questions about my code or projects!
 
 ---
 
