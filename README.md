@@ -38,14 +38,13 @@ Free free to reach out with any questions about my code or projects!
 ## About Me ##
 
 - 4th Year Computing Science | Honours student
-- hackathon lover (NatHacks, HackEd, ...)
+- addicted to hackathons (NatHacks, HackEd, ...)
 - You can find me on 
 <a href="https://www.linkedin.com/in/syedreza-abdi/">
   <img src="https://img.logo.dev/linkedin.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=true&format=png"
        alt="LinkedIn"
        width="17">
-</a>
-or at [syedreza@ualberta.ca](mailto:syedreza@ualberta.ca).
+</a> or at [syedreza@ualberta.ca](mailto:syedreza@ualberta.ca).
 
 <!-- Icons -->
 
