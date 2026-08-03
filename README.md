@@ -35,7 +35,9 @@ Free free to reach out with any questions about my code or projects!
 
 --- 
 
-## Connect with Me ##
+## About Me ##
+
+- 
 
 You can find me on 
 <a href="https://www.linkedin.com/in/syedreza-abdi/">
@@ -75,6 +77,8 @@ or at [syedreza@ualberta.ca](mailto:syedreza@ualberta.ca).
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 -->
+
+---
 
 ## Previously at:
 <div align="center">
