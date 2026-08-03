@@ -51,6 +51,7 @@ or at [syedreza@ualberta.ca](mailto:syedreza@ualberta.ca).
 
 [1]: https://www.linkedin.com/in/syedreza-abdi/
 
+<!--
 ---
 ## Technical Skills
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
@@ -70,6 +71,8 @@ or at [syedreza@ualberta.ca](mailto:syedreza@ualberta.ca).
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+-->
 
 ## Previously at:
 <div align="center">
