@@ -68,6 +68,10 @@ or at [syedreza@ualberta.ca](mailto:syedreza@ualberta.ca).
   </a>
   <a href="https://www.se.com">
     <img src="https://img.logo.dev/se.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=true&format=png" width="50" style="border-radius: 50%;">
+    </a>
+  <a href="https://albertasat.ca/">
+    <img src="images/alberta-sat.png" width="50" style="border-radius: 50%;">
+  </a>
   </a>
   <a href="https://www.tronic.co.tz/">
     <img src="images/aj-tronics.png" width="50" style="border-radius: 50%;">
